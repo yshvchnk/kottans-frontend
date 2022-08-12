@@ -14,8 +14,7 @@ Repository for homework of Kottans Front-End course
 
 ## Linux CLI, and HTTP
 
-!
-[This is a screenshot](task_linux_cli/Screenshot2022-08-11204150.png)
+![This is a screenshot](task_linux_cli/Screenshot2022-08-11204150.png)
 
 - Linux Survival (4 modules) - I\`ve already knew some of the basic commands like mkdir, cd, cp, mv, but there was a lot of new information like security mode, creating proper pathnames, work with printer. I was surprised how easy to work using simbols like ~, |, . I plan to use in future basic commands and special symbols for interaction with files and work with Git.
 
