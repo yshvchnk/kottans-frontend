@@ -19,3 +19,7 @@ Repository for homework of Kottans Front-End course
 - Linux Survival (4 modules) - I\`ve already knew some of the basic commands like mkdir, cd, cp, mv, but there was a lot of new information like security mode, creating proper pathnames, work with printer. I was surprised how easy to work using simbols like ~, |, . I plan to use in future basic commands and special symbols for interaction with files and work with Git.
 
 - HTTP 1/2 - I\`ve already knew some basic information about HTTP, but these aarticles made my thoughts a little clearer. I can\`t say that I understand everything but basic work of HTTP is quite understandable. I wasn`t surbrised by any of info here, just some info was harder to understand than another. I plan to use Google Workkit and understand all about how HTTP works by becoming more experienced.
+
+## Git Collaboration
+
+
