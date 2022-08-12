@@ -1,4 +1,4 @@
-# kottans-frontend
+# [kottans-frontend](https://github.com/kottans/frontend)
 
 Repository for homework of Kottans Front-End course
 
